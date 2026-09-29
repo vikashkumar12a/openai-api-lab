@@ -22,3 +22,4 @@ response = client.responses.create(
 
 # Display the response
 print(response.output_text)
+print("GitHub connection successful!")
